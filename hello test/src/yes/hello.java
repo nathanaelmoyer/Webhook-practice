@@ -6,7 +6,7 @@ public class hello {
     
 	String word = "I hope this works";
 	
-    public void largest()
+    public void test()
     {
     	System.out.print(word);
     	
