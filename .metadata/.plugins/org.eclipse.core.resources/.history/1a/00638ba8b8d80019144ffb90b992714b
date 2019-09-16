@@ -10,7 +10,6 @@ class testJunit {
 	void test() 
 	{
 		JUnit a = new JUnit();
-		
 		a.test();
 	}
 

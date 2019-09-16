@@ -9,8 +9,7 @@ class testJunit {
 	@Test
 	void test() 
 	{
-		JUnit a = new JUnit();
-		
+		JUnit a;
 		a.test();
 	}
 

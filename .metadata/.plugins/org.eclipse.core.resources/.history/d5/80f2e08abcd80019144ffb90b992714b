@@ -4,7 +4,7 @@ public class JUnit {
 	
 	private int a;
 	
-	public void JUit(int startA)
+	public JUit(int startA)
 	{
 		a = startA;
 	}
