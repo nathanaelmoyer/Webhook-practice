@@ -1,16 +1,15 @@
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-
+import class JUnit;
 
 class testJunit {
 
-	
+	JUnit 
 	@Test
 	void test() 
 	{
-		JUnit a;
-		a.test();
+		test();
 	}
 
 }
