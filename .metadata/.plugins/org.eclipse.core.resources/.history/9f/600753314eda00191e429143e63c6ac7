@@ -15,12 +15,9 @@ class testJunit {
 		//a.test();
 		
 		System.out.print("input a number \n");
-		
 		input = 20;
-		
-		
 		a.setA(input);
-		System.out.print("Number entered: " + a.getA() + "\n");
+		System.out.print("Number entered: " + input + "\n");
 		
 	}
 

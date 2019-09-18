@@ -12,16 +12,12 @@ class testJunit {
 		JUnit a = new JUnit();
 		int input = 0;
 		
-		//a.test();
+		a.test();
 		
-		System.out.print("input a number \n");
-		
+		System.out.print("input a number");
 		input = 20;
-		
-		
 		a.setA(input);
-		System.out.print("Number entered: " + a.getA() + "\n");
-		
+		System.out.print("Number entered" + input);
 	}
 
 }

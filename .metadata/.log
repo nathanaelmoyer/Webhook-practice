@@ -140,3 +140,26 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-09-18 15:08:07.176 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-09-18 15:08:15.510
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-09-18 15:08:35.910
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\natha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2019-09-18 15:12:07.410
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\natha\AppData\Local\Temp\C__Users_natha_eclipse_java-latest-released_eclipse_2da8b93ca680_8dd7dda8f042
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2019-09-18 15:12:07.718
+!MESSAGE Setup tasks were performed during startup. See 'C:\Users\natha\eclipse\java-latest-released\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
