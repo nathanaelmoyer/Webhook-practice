@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="testJunit" project="Webhook practice" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="testJunit" time="0.017" uniqueid="[engine:junit-jupiter]/[class:testJunit]">
-    <testcase name="test" classname="testJunit" time="0.017" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:testJunit]/[method:test()]"/>
-  </testsuite>
-</testrun>

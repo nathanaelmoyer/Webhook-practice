@@ -1,0 +1,28 @@
+
+
+public class JUnit {
+
+	
+	private string a;
+	
+	public void JUit(string startA)
+	{
+		a = startA;
+	}
+	
+	public int getA()
+	{
+		return a;
+	}
+	
+	public void setA(string input)
+	{
+		a = input;
+	}
+	
+	public void test()
+	{
+	System.out.print("Go to hell");
+	}
+	
+}

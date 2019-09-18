@@ -1,7 +1,5 @@
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.Scanner;
-
 import org.junit.jupiter.api.Test;
 
 
@@ -13,14 +11,12 @@ class testJunit {
 	{
 		JUnit a = new JUnit();
 		int input = 0;
-		Scanner in = new Scanner(System.in);
-		
 		
 		//a.test();
 		
 		System.out.print("input a number \n");
 		
-		input = in.nextLine();
+		input = 20;
 		
 		
 		a.setA(input);
